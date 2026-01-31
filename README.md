@@ -7,8 +7,8 @@
 > React - Express - Supabase.
 -----
 # Future Templates
-> React - Express - Firebase
-> React - FastAPI - Supabase
-> React - FastAPI - Firebase
-> React - Go - Firebase (For Google TechSprints)
-> Svelte - Express or FastAPI - Firebase (Idk what is better for what)
+> React - Express - Firebase,
+> React - FastAPI - Supabase,
+> React - FastAPI - Firebase,
+> React - Go - Firebase (For Google TechSprints),
+> Svelte - Express or FastAPI - Firebase (Idk what is better for what).
