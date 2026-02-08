@@ -1,62 +1,57 @@
+# Web App Template
 
------
+This is a minimal web app template with the given:
 
-Web App Template
+## Tech Stack
 
-This is a minimal web app template with the given 
+- **Backend:** Express.js  
+- **Frontend:** React.js (Tailwind CSS for design)  
+- **Storage & Auth:** Supabase  
 
-1.TechStack
-2.Minimal Working functions
+---
 
+## Minimal Working Functions
 
------
+- Simple **Signup and Login** using Supabase  
+- **Frontend to Backend API call**  
+- **Connection from Backend to Supabase**  
+- **Context Factory for React**  
+- **Protected Routes Component**
 
------
+---
 
-TechStack
+## Template Structure
 
-1.Express.js for backend
-2.React.js for frontend (tailwind css for design)
-3.Supabase for storage and auth
+### **1. Backend**
 
------
+- App template  
+- Routes template  
+- Controller template  
+- Middleware template  
+- Config template  
+- API template  
 
------
+---
 
-Minimal Working Functions
+### **2. Frontend**
 
-Simple Signup and Login using Supabase
-Frontend To Backend ApiCall
-Connection From Backend To Supabase 
-Context Factory for React
-Protected Routes Component
+#### **App**
+- App template  
 
------
+#### **Main**
+- Main template (Wrap the context here generally)
 
-Template presents
+#### **Example Pages**
+- Example Page  
+- Example Dashboard  
+- Sign Up  
+- Log In  
+- Hero Page  
 
-1.Backend
--App template
--Routes templates
--Controller template
--Middleware template
--Config template
--Api template
-
-2.Frontend
--App template
--Main template(Wrap the context here generally)
--Example Pages
---Example Page
---Example Dashboard
---Sign Up , Login In , Hero page
--Example Components
---ContextFactory
---ProtectedRoutes
---Example Component
-
-
------
+#### **Example Components**
+- ContextFactory  
+- ProtectedRoutes  
+- Example Component  
 
 
 
