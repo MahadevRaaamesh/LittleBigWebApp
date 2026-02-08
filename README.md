@@ -7,9 +7,6 @@
 > React - Express - Supabase.
 -----
 # Future Templates
-> React - Express - Firebase.
-
-> React - FastAPI - Supabase.
 
 > React - FastAPI - Firebase.
 
