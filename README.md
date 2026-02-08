@@ -1,7 +1,6 @@
 # LittleBigWebApp
 
 # This is a Repo that will have different templates for web apps
-# I am doing frontend and backend seperately
 
 # Present Templates 
 > React - Express - Supabase.
